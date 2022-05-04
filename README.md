@@ -1,4 +1,6 @@
 # Time Tracker App
+CSS grid, working with JSON data
+
 ## Figma file and asset available at https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw
 
 ## To see a deployment of this side, visit https://time-tracker-5iycw5a7t-devbenwolf.vercel.app/
@@ -73,3 +75,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Getting started with Styled Components
+
+## [Docs](https://www.styled-components.com/docs)
+
+**See the documentation at [styled-components.com/docs](https://www.styled-components.com/docs)** for more information about using `styled-components`!
+
+Quicklinks to some of the most-visited pages:
+
+- [**Getting started**](https://www.styled-components.com/docs/basics)
+- [API Reference](https://styled-components.com/docs/api)
+- [Theming](https://www.styled-components.com/docs/advanced#theming)
+- [Server-side rendering](https://www.styled-components.com/docs/advanced#server-side-rendering)
+- [Tagged Template Literals explained](https://www.styled-components.com/docs/advanced#tagged-template-literals)
