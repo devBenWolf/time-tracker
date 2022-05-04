@@ -1,3 +1,8 @@
+# Time Tracker App
+## Figma file and asset available at https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw
+
+## To see a deployment of this side, visit https://time-tracker-5iycw5a7t-devbenwolf.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
