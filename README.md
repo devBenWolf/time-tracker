@@ -1,5 +1,5 @@
 # Time Tracker App
-CSS grid, working with JSON data
+Simple app pulling json data. Layout based on css grid.
 
 ## Figma file and asset available at https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw
 
