@@ -2,7 +2,7 @@
 Simple app pulling json data. Layout based on css grid.
 
 
-## To see a deployment of this side, visit https://time-tracker-5iycw5a7t-devbenwolf.vercel.app/
+## To see a deployment of this side, visit https://time-tracker-flame.vercel.app/
 
 # Getting Started with Create React App
 
