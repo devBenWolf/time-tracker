@@ -1,7 +1,6 @@
 # Time Tracker App
 Simple app pulling json data. Layout based on css grid.
 
-## Figma file and asset available at https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw
 
 ## To see a deployment of this side, visit https://time-tracker-5iycw5a7t-devbenwolf.vercel.app/
 
