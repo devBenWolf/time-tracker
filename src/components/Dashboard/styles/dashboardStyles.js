@@ -6,7 +6,7 @@ export const MainContainer = styled.div`
     justify-content: center;
     align-items: center;
     background-color: hsl(220, 72%, 10%);
-    height: 100vh;
+    min-height: 100vh;
     box-sizing: border-box;
 `
 export const SecondaryContainer = styled.div`
@@ -28,7 +28,7 @@ export const SecondaryContainer = styled.div`
         justify-content: flex-start;
         display: block;
         width: 350px;
-        overflow: auto;
+        height: min-content;
         
     }
 `
